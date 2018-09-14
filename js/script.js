@@ -5,3 +5,4 @@ function triangle(){
 
     var AB = A + B;
     var AC = A + C;
+    var BC = B + C;
