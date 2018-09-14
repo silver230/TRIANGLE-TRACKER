@@ -13,6 +13,9 @@ function triangle(){
    else if(A === B || B === C || A===C){
     alert("You have an isosceles triangle");
  }
+    else if((AB < C) || (AC < B) || (BC < A)) {
+		 alert("There is no triangle formed");
+	}
     else if((AB > C) || (AC > B) || (BC > A)){
         alert("Scalene triangle formed");
  }
@@ -22,7 +25,7 @@ function triangle(){
      else {alert("try again");
  }
 }
-var displayWord = function(statements){
+var yourValue = function(statements){
 var statements = ["Revise your input" , "to determine" , "your triangle"];
 statements.forEach(function(statements){
 	alert("revise your input");
