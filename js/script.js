@@ -6,3 +6,7 @@ function triangle(){
     var AB = A + B;
     var AC = A + C;
     var BC = B + C;
+
+    if (A === B && B === C){
+   alert("You have an equilateral triangle");
+ }
