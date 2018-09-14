@@ -4,3 +4,4 @@ function triangle(){
     var C = parseFloat(document.getElementById('CA').value);
 
     var AB = A + B;
+    var AC = A + C;
