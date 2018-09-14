@@ -19,3 +19,12 @@ function triangle(){
     else if((AB > C) || (AC > B) || (BC > A)){
      alert("Scalene triangle formed");
  }
+     else {alert("try again");
+ }
+}
+var displayWord = function(statements){
+var statements = ["Revise your input" , "to determine" , "your triangle"];
+statements.forEach(function(statements){
+	alert("revise your input");
+});
+}
