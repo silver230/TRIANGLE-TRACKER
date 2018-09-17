@@ -8,7 +8,7 @@ SYLVESTER OMONDI
 ### Project Description
 This website shows how a triangle can be formedor appears.
 ### Setup Instructions
-You need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet) *A web browser(Chrome is most recommendable) Open the browser, key in the followin this link: my site is published at https://silver230.github.io/port-folio/
+You need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet) *A web browser(Chrome is most recommendable) Open the browser, key in the followin this link: my site is published at https://silver230.github.io/TRIANGLE-TRACKER/
 
 # MIT License
 
