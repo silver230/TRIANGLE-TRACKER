@@ -6,9 +6,18 @@ mywebpage defines your type of triangle..here is the link ...try it https://silv
 SYLVESTER OMONDI
 
 ### Project Description
-This website shows how a triangle can be formedor appears.
+This website shows how a triangle can be formed or appears.
 ### Setup Instructions
 You need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet) *A web browser(Chrome is most recommendable) Open the browser, key in the followin this link: my site is published at https://silver230.github.io/TRIANGLE-TRACKER/
+
+
+## Break down of the project
+
+#### If all sides of the triangle are equal; for example input 4,4,4 ; my output is EQUILATERAL.
+#### If only two sides of  the triangle are equal; for example input4,4,6; my output is ISOSCELES.
+#### If none of the sides of the triangle is equal to the other for example input; 4,5,6 ; my output is SCALENE.
+#### if the sides are much smaller than each other then its not a triangle for example input; 1,-1,-2 ; my output is NOT A TRIANGLE.
+
 
 # MIT License
 
