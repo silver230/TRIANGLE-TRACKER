@@ -1,6 +1,5 @@
 body{
   position: absolute;
-  background-image: url("../images/triangles.jpg");
   font-weight: 400;
   font-family:sans-serif;
   float:left;
@@ -13,27 +12,17 @@ body{
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
   body {
-      background-color: black;
-      color: white;
+      background-color: white;
+      color: black;
   }
 }
-  
+html{
+    background-image:url("../images/tri.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+h1{
+    color:black;
+    font-size:24px;
 
-@media screen and (min-width: 768px) {
-  body {
-    background-color: blue;
-  }
-  h1{
-    text-decoration-color: blue;
-  }
-}
-
-  p{
-    font-size: 12px;
-  }
-  html{
-    background-image:url("../images/triangles.jpg5.jpg");
-  }
-  h1{
-    color:white;
   }
